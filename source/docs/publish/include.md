@@ -13,10 +13,13 @@ description: 'Include default repositories'
 
 Make sure your repository meets these requirements:
 
-- Your repository can be added to HACS as a custom repository.
+- Your repository can be added to HACS as a custom repository.yhıjkgyclkbnmlöşç
+
+l.y09uıkösdsyrrgroukgr64764163
+hjmşjıohjmşçjlhıolkpşşi
 - Your repository is public and hosted on GitHub.
 - Add and pass these GitHub Actions:
-    - [HACS Action](https://github.com/hacs/action) (Before you submit your PR, this action must pass without any errors or ignores.)
+    - [HACS Action](https://   github.com/hacs/action) (Before you submit your PR, this action must pass without any errors or ignores.)
     - [Hassfest](https://github.com/home-assistant/actions#hassfest) (for integrations only)
 - Create a new GitHub release (not just a tag, a full release) after the actions run successfully.
 
@@ -105,3 +108,4 @@ Ensures that the files in your PR are sorted correctly.
 ## After the PR is merged
 
 After your PR is merged, your repository will be included in the next scheduled scan.
+
